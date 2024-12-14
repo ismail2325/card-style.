@@ -1,0 +1,39 @@
+
+.card{
+    width: 300px;
+    margin: 10px;
+    box-sizing: border-box;
+    box-shadow: 2px 3px 5px black;
+    background-color: rgb(137, 128, 137);
+}
+.card:hover{
+    box-shadow: 6px 12px 6px white;
+}
+.title{
+    font-size: 2rem;
+    text-align: center;
+    color: white;
+    margin:0;
+
+}
+.discription{
+    text-align: justify;
+    color: white;
+    text-decoration: solid ;
+    padding: 1px;
+    line-height: 1.5;
+    text
+}
+.all-body{
+    box-sizing: border-box;
+    display:flex;
+    flex-wrap:wrap;
+    background-color:cadetblue;
+    justify-content:center;
+    align-item:center;
+}
+
+
+.div-img{
+    width: 100%;
+}
